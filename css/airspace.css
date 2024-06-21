@@ -272,7 +272,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 10px 20px;
 }
 
-#feature2 {
+#sec-feature {
   background: url("../img/featue-bg.jpg");
   background-position: 75% 94px;
   width: 100%;
@@ -294,16 +294,16 @@ font header .navbar-default .navbar-nav li a:hover {
   backface-visibility: hidden;
   padding: 100px 0;
 }
-#feature2 h2 {
+#sec-feature h2 {
   font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
 }
-#feature2 p {
+#sec-feature p {
   color: #8d8f92;
   margin-bottom: 20px;
 }
-#feature2 .btn-view-works {
+#sec-feature .btn-view-works {
   background: #655E7A;
   color: #fff;
   padding: 10px 20px;
