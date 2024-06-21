@@ -9,6 +9,7 @@
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600);
 @import url(//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(//fonts.googleapis.com/css?family=Volkhov:400italic);
+@import url(//fonts.googleapis.com/css2?family=Lora:400,300,600)
 /* var text-decoration */
 /*--
 	Common Css
@@ -73,6 +74,7 @@ header .navbar {
   border: 0px;
 }
 header .navbar-brand {
+  font-family: 'Lora', serif;
   font-size: 60px;
   font-style: bold;
   padding-top: 30px;
