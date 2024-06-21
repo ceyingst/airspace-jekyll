@@ -71,10 +71,10 @@ header {
 header .navbar {
   margin-bottom: 0px;
   border: 0px;
-  font-size: 40px;
 }
 header .navbar-brand {
   padding-top: 5px;
+  font-size: 40px;
 }
 header .navbar-default {
   background: none;
