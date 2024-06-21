@@ -274,7 +274,7 @@ font header .navbar-default .navbar-nav li a:hover {
 
 #sec-feature {
   background: url("../img/feature2-bg.jpg");
-  background-position: 0% 94px;
+  background-position: 50% 94px;
   width: 100%;
   display: block;
   position: relative;
@@ -292,7 +292,7 @@ font header .navbar-default .navbar-nav li a:hover {
   box-sizing: border-box;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  padding: 100px 0;
+  padding-right: 100px;
 }
 #sec-feature h2 {
   font-size: 28px;
