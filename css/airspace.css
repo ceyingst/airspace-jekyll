@@ -75,7 +75,7 @@ header .navbar {
 header .navbar-brand {
   font-size: 60px;
   font-style: bold;
-  font-color: black;
+  padding-top: 30px;
 }
 header .navbar-default {
   background: none;
