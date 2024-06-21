@@ -73,8 +73,9 @@ header .navbar {
   border: 0px;
 }
 header .navbar-brand {
-  font-size: 40px;
+  font-size: 60px;
   font-style: bold;
+  font-color: black;
 }
 header .navbar-default {
   background: none;
