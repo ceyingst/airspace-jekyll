@@ -2,11 +2,11 @@
 layout: post
 title: "This was another talk"
 author: "DL"
-meta: "Springfield"
+meta: "Location here"
 ---
 
 And it was recorded, which was exciting
 
-## Video (h2)
+## Video
 
 Because that means we can include the link to the video here!
