@@ -15,15 +15,14 @@ permalink: /blog/
     </div>
   </div>
 </section>
-<div class="container" padding="100px">
+
 {% for post in site.posts %}
-<div class="post-area">
+<div class="post-area" padding="100px">
   <a  href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
   <!-- This string would go back before "class="bold"" if we wanted to have a URL direct href="{{ post.url | prepend: site.baseurl }}" -->
   <p class="post-date">{{ post.date | date_to_long_string }}</p>
   <p>
     {{ post.content | strip_html | truncatewords: 50 }}
   </p>
-</div>
 </div>
 {% endfor %}
